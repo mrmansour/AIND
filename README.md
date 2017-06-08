@@ -1,1 +1,1 @@
-# AIND
+# Artificial Intelligence Nanodegree
